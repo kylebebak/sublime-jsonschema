@@ -2,6 +2,8 @@
 
 This is the [jsonschema](https://github.com/Julian/jsonschema) module bundled for use with Sublime Text's Package Control.
 
+It's currently 3 commits ahead of [v2.6.0](https://github.com/Julian/jsonschema/releases/tag/v2.6.0).
+
 Read about [dependencies](https://packagecontrol.io/docs/dependencies).
 
 
